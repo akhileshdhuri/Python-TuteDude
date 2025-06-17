@@ -14,3 +14,7 @@ Assignment 3:
 Assignment 4:
 #Task 1: Read a File and Handle Errors
 #Task 2: Write and Append Data to a File
+
+Assignment 5:
+#Task 1: Create a Dictionary of Student Marks
+#Task 2: Demonstrate List Slicing
